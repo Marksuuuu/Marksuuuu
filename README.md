@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Marksuuuu</h1>
+<h1 align="center">Hi 👋, I'm John Raymark</h1>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
    <img src="https://komarev.com/ghpvc/?username=Marksuuuu&style=flat-square&color=blue" alt=""/>
