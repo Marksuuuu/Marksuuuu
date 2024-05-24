@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm John Raymark</h1>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/marksuuuu/">
    <img src="https://komarev.com/ghpvc/?username=Marksuuuu&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
